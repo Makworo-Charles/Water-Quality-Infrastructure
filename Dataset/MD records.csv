@@ -1,0 +1,1001 @@
+Project_id,source_id,Address,Town,Province,Source_type,results,Improvement,Source_status,Date_of_completion,Comments
+2001,SoRu38651224,"27 Mto Wa Ukarimu Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2002,AmRu13336224,"61 Lusaka Avenue",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2003,KiMr24490224,"153 Okocha Street",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2004,AkRu06005224,"74 Simba Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2005,KiRu27387224,"40 Kaduna Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2006,SoRu38531224,"39 Pwani Ya Joto Road",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2007,SoRu37921224,"155 Paka Dangote Street",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2008,AkLu01855224,"43 Lilongwe Street",Lusaka,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2009,HaRu20265224,"42 Malaika Drive",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2010,AmRu14051224,"21 Senghor Way",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2011,KiRu27965224,"30 Duma Leakey Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2012,AkRu05087224,"83 Bissau Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2013,SoIl32542224,"83 Sfax Street",Ilanga,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2014,SoIl32649224,"64 Pwani Mchangani Road",Ilanga,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2015,KiRu27730224,"36 Desmond Tutu Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2016,SoRu36983224,"37 Ellen Johnson Sirleaf Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2017,SoRu38944224,"21 Asimbonanga Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2018,AkRu07917224,"34 Maji Mema Street",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2019,HaRu18608224,"61 Kano Street",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2020,SoIl32322224,"36 Rift Valley Rise",Ilanga,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2021,SoIl32324224,"21 Rift Valley Rise",Ilanga,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2022,KiRu25960224,"67 Kalahari Avenue",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2023,KiHa23041224,"49 Bujumbura Street",Harare,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2024,AmRu14057224,"30 Senghor Way",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2025,SoBa31652224,"85 Kwame Nkrumah Street",Bahari,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2026,KiMr24976224,"4 Mlima Wa Matumaini Street",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2027,KiRu27324224,"16 Bloemfontein Boulevard",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2028,AkRu04701224,"46 Windhoek Way",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2029,AkRu07151224,"85 Simba Tutu Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2030,KiRu29837224,"17 Soweto Blues Boulevard",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2031,KiRu29257224,"8 Bahari Ya Faraja Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2032,AmAm09367224,"46 Zambezi Way",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2033,HaDj16929224,"39 Amina Mohammed Drive",Djenne,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2034,SoMa34450224,"57 Usman dan Fodio Way",Marang,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2035,AmRu13932224,"123 Timbuktu Road",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2036,HaRu20227224,"34 Malaika Drive",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2037,AmDa11995224,"36 Nyoka Achebe Street",Dahabu,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2038,KiMr24933224,"163 Mlima Wa Matumaini Street",Mrembo,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2039,KiZu30750224,"141 Banjul Street",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2040,HaRu20248224,"39 Malaika Drive",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2041,AmAb09034224,"102 Kinshasa Road",Abidjan,Amanzi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2042,HaDe16403224,"6 Ndege Tambo Road",Deka,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2043,KiRu25704224,"157 Acacia Lane",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2044,HaRu19620224,"19 Mto Mandela Avenue",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2045,SoKo33469224,"121 Mlima Wa Hekima Street",Kofi,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2046,HaDe16369224,"53 Ndege Tambo Road",Deka,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2047,AmRu13677224,"65 Khartoum Avenue",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2048,HaRu18575224,"98 Kano Street",Rural,Hawassa,river,NULL,NULL,Backlog,NULL,NULL
+2049,KiRu27413224,"66 Kaduna Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2050,SoRu38267224,"119 Mto Wa Uzima Street",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2051,AkRu08850224,"67 Ladysmith Black Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2052,KiRu25878224,"8 Kudu Square",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2053,KiRu30164224,"29 Burna Boy Street",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2054,HaRu18963224,"107 Winnie Mandela Street",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2055,SoKo33411224,"95 Mlima Wa Hekima Street",Kofi,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2056,KiMr25198224,"41 Afrobeats Street",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2057,KiRu27920224,"42 Nyerere Ndovu Avenue",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2058,KiRu27449224,"121 Kaduna Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2059,AkRu05810224,"18 Mbeki Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2060,KiMr25055224,"89 Afrobeats Street",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2061,SoRu36140224,"15 Rabat Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2062,AmRu13269224,"188 Hurghada Street",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2063,KiRu28161224,"166 Kipepeo Johnson Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2064,HaAm15935224,"11 Garang Street",Amina,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2065,AkRu04565224,"140 Antananarivo Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2066,HaRu19711224,"40 Mlima Tazama Avenue",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2067,KiHa22723224,"90 Tripoli Street",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2068,HaRu17599224,"100 Constantine Road",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2069,SoRu35608224,"120 Monrovia Street",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2070,HaAm15926224,"86 Garang Street",Amina,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2071,SoRu35515224,"21 Monrovia Street",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2072,SoRu35421224,"45 Mandela Drive",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2073,HaRu19212224,"138 Kiboko Nkrumah Lane",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2074,SoRu36689224,"29 Machel Lane",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2075,AkRu05935224,"25 Mbeki Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2076,AkRu06027224,"106 Simba Road",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2077,HaYa21537224,"1 Wangari Maathai Avenue",Yaounde,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2078,SoRu35300224,"20 Nile Street",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2079,KiRu25829224,"186 Acacia Lane",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2080,HaAm16081224,"179 Garang Street",Amina,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2081,KiRu27033224,"168 Zanzibar Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2082,KiRu28816224,"186 Bahari Nzuri Street",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2083,SoRu39310224,"6 Isicathamiya Avenue",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2084,AmRu14252224,"26 Zinjathropus Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2085,KiRu26249224,"69 Kimathi Street",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2086,AkRu07216224,"70 Simba Tutu Street",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2087,AkRu05016224,"200 Bissau Street",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2088,AkRu02788224,"168 Nia Lane",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2089,KiAm22124224,"132 Lome Street",Amara,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2090,AkRu07454224,"37 Bahari Ya Kunata Avenue",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2091,AkHa00132224,"27 Addis Ababa Road",Harare,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2092,AmRu14191224,"181 Zinjathropus Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2093,HaRu18037224,"103 Lubumbashi Lane",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2094,AmRu14669224,"107 Nyama Choma Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2095,KiRu25257224,"72 Mwanza Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2096,KiZu30784224,"100 Banjul Street",Zuri,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2097,AkRu03100224,"18 Asmara Boulevard",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2098,HaRu19574224,"127 Mnyama Dangote Road",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2099,KiRu28159224,"155 Kipepeo Johnson Street",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2100,KiRu26463224,"70 Alexandria Avenue",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2101,KiHa22654224,"103 Tripoli Street",Harare,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2102,SoRu37261224,"32 Kofi Annan Avenue",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2103,HaRu16972224,"45 Twiga Lane",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2104,AmAs10838224,"190 Jangwa La Fisi Street",Asmara,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2105,SoRu36544224,"110 Machel Lane",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2106,KiRu27435224,"112 Kaduna Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2107,AmPw12421224,"13 Jengo Street",Pwani,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2108,KiRu26618224,"29 Gaborone Avenue",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2109,AmPw12520224,"177 Lagos Street",Pwani,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2110,AmRu14105224,"56 Senghor Way",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2111,KiZu30919224,"35 Yaounde Street",Zuri,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2112,KiRu27241224,"131 Maseru Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2113,SoRu38670224,"120 Mto Wa Ukarimu Street",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2114,KiIs23702224,"145 Cape Coast Road",Isiqalo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2115,SoIl32791224,"61 Bahari Tamu Road",Ilanga,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2116,KiRu25320224,"171 Mwanza Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2117,SoIl32498224,"150 Sfax Street",Ilanga,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2118,SoRu36704224,"63 Kamuzu Banda Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2119,SoRu34695224,"138 Simba Road",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2120,KiRu27204224,"84 Maseru Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2121,HaRu18048224,"46 Lubumbashi Lane",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2122,AkRu08751224,"193 Ladysmith Black Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2123,HaDe16529224,"110 Yvonne Chaka Road",Deka,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2124,AkRu05854224,"182 Mbeki Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2125,KiRu25522224,"29 Limpopo Trail",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2126,AmRu13666224,"56 Khartoum Avenue",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2127,KiZu31116224,"41 Maputo Drive",Zuri,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2128,KiRu26866224,"31 Zanzibar Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2129,HaRu17507224,"19 Rhodes Street",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2130,AmAs10754224,"3 Jangwa La Fisi Street",Asmara,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2131,AkRu07642224,"103 Mto Wa Furaha Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2132,SoRu36685224,"157 Machel Lane",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2133,AkLu02329224,"43 Okonjo-Iweala Street",Lusaka,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2134,AmAm09561224,"158 Lumumba Lane",Amina,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2135,KiMr25020224,"27 Ziwa La Tumaini Drive",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2136,AkRu02996224,"1 Dakar Crescent",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2137,AkHa00407224,"89 Oliver Tambo Street",Harare,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2138,SoRu36987224,"192 Ellen Johnson Sirleaf Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2139,SoRu34842224,"26 Amani Loop",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2140,AmAs10054224,"23 Tembo Road",Asmara,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2141,AkRu05416224,"148 Wole Soyinka Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2142,KiRu27839224,"49 Haile Selassie Avenue",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2143,HaYa21452224,"7 Okapi Road",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2144,SoRu36118224,"13 Niamey Drive",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2145,AmPw12636224,"165 Lagos Street",Pwani,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2146,AkHa00679224,"41 Yvonne Chaka Street",Harare,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2147,HaDj16786224,"89 Durban Road",Djenne,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2148,SoRu36373224,"22 Nkrumah Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2149,KiRu28405224,"11 Twiga Kagame Avenue",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2150,KiIs24130224,"3 Kiboko Senghor Road",Isiqalo,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2151,SoRu35353224,"161 Nile Street",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2152,AkRu05946224,"28 Mbeki Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2153,AkRu06029224,"62 Simba Road",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2154,SoRu38951224,"67 Asimbonanga Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2155,AkRu03901224,"23 Haile Selassie Avenue",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2156,SoCh32213224,"59 Mali Avenue",Cheche,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2157,HaYa21607224,"14 Djembe Drive",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2158,KiRu29002224,"114 Njia Ya Maji Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2159,AmRu15440224,"137 Jerusalema Lane",Rural,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2160,SoMa33860224,"107 Cissé Road",Majengo,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2161,KiRu26913224,"137 Zanzibar Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2162,AmAs10379224,"116 Eto'o Street",Asmara,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2163,AmRu13983224,"53 Timbuktu Road",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2164,AmRu14317224,"8 Julius Nyerere Drive",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2165,HaAm16124224,"2 Kifaru Lumumba Road",Amina,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2166,KiRu30412224,"50 Kinshasa Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2167,AmRu14780224,"186 Nyama Choma Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2168,AmBe11241224,"104 Mbuzi Mbeki Street",Bello,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2169,HaRu19972224,"67 Milima Kali Street",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2170,SoRu37026224,"94 Ellen Johnson Sirleaf Street",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2171,HaRu19784224,"115 Chanzo Cha Furaha Road",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2172,AkRu08219224,"78 Pwani Ya Utukufu Road",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2173,SoRu34980224,"18 Ebony Crest",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2174,HaRu19066224,"64 Winnie Mandela Street",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2175,AmAm09574224,"91 Lumumba Lane",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2176,AkKi01447224,"150 Zambezi Street",Kintampo,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2177,KiIs23739224,"127 Cape Coast Road",Isiqalo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2178,AkRu03822224,"27 Lumumba Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2179,SoRu38748224,"68 Mto Wa Ukarimu Street",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2180,SoRu36094224,"44 Niamey Drive",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2181,KiMr25113224,"162 Afrobeats Street",Mrembo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2182,SoKo33431224,"75 Mlima Wa Hekima Street",Kofi,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2183,AmAm09594224,"149 Lumumba Lane",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2184,KiIs23484224,"145 Langata Road",Isiqalo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2185,HaRu17445224,"44 Rhodes Street",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2186,SoRu35557224,"125 Monrovia Street",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2187,KiRu26606224,"44 Gaborone Avenue",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2188,AkLu02186224,"49 Okonjo-Iweala Street",Lusaka,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2189,AmAm09847224,"49 Afro Jazz Street",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2190,HaRu20062224,"87 Milima Kali Street",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2191,AkRu06161224,"96 Tembo Mandela Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2192,AkHa00471224,"27 Oliver Tambo Street",Harare,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2193,AkRu03325224,"83 Savanna Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2194,HaRu19194224,"18 Kiboko Nkrumah Lane",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2195,AkRu03530224,"120 Koinange Street",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2196,AmPw12640224,"171 Lagos Street",Pwani,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2197,AkLu02194224,"9 Okonjo-Iweala Street",Lusaka,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2198,KiRu28475224,"1 Sungura Amanpour Road",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2199,KiRu27979224,"26 Duma Leakey Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2200,KiMr24507224,"85 Okocha Street",Mrembo,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2201,AmDa11450224,"50 Johannesburg Street",Dahabu,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2202,AkLu01839224,"68 Lilongwe Street",Lusaka,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2203,SoIl32430224,"64 Sfax Street",Ilanga,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2204,SoMa34267224,"13 Freetown Road",Marang,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2205,SoRu37590224,"52 Panya Zinjathropus Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2206,AmRu15304224,"110 Mawimbi Maji Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2207,SoRu39418224,"9 Amadou & Mariam Avenue",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2208,HaAm15978224,"181 Garang Street",Amina,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2209,AkRu04592224,"42 Marrakech Avenue",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2210,KiRu29306224,"62 Bahari Ya Faraja Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2211,AmRu14089224,"32 Senghor Way",Rural,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2212,AmPw12670224,"190 Lagos Street",Pwani,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2213,SoMa33629224,"19 Luxor Avenue",Majengo,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2214,KiZu30891224,"61 Yaounde Street",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2215,KiRu28120224,"45 Nyuki Okonjo Drive",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2216,KiZu31205224,"181 Conakry Street",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2217,SoRu36569224,"81 Machel Lane",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2218,KiAm21973224,"188 Lome Street",Amara,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2219,SoRu36203224,"29 Casablanca Road",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2220,AkRu07866224,"110 Maji Mema Street",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2221,AmAm09481224,"141 Lumumba Lane",Amina,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2222,AkRu02863224,"14 Nia Lane",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2223,HaZa21709224,"115 Kampala Road",Zanzibar,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2224,KiRu30421224,"59 Kinshasa Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2225,SoRu39156224,"7 Youssou N'Dour Road",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2226,AmAm09708224,"67 Ziwa Mzuri Avenue",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2227,HaRu17476224,"148 Rhodes Street",Rural,Hawassa,river,NULL,NULL,Backlog,NULL,NULL
+2228,AmBe11247224,"85 Mbuzi Mbeki Street",Bello,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2229,AkRu08042224,"43 Milima Nyeusi Drive",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2230,AkHa00087224,"124 Addis Ababa Road",Harare,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2231,SoBa31819224,"135 Chura Usman Street",Bahari,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2232,HaRu20648224,"184 Gbenga Adeyinka Street",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2233,KiRu29940224,"96 Special Star Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2234,KiRu29980224,"124 Special Star Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2235,HaDe16498224,"14 Ndege Tambo Road",Deka,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2236,AkRu04993224,"159 Bissau Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2237,HaRu18627224,"86 Kano Street",Rural,Hawassa,river,NULL,NULL,Backlog,NULL,NULL
+2238,AmRu14718224,"63 Nyama Choma Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2239,KiHa23337224,"16 Samora Machel Road",Harare,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2240,SoRu38037224,"21 Paka Dangote Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2241,AmRu14323224,"23 Julius Nyerere Drive",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2242,KiRu26105224,"54 Nyerere Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2243,AkKi01431224,"63 Zambezi Street",Kintampo,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2244,SoRu37970224,"49 Paka Dangote Street",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2245,HaRu18043224,"41 Lubumbashi Lane",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2246,KiMr24690224,"55 Kob Maathai Road",Mrembo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2247,HaRu19533224,"134 Mnyama Dangote Road",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2248,KiRu27635224,"120 Desmond Tutu Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2249,SoRu35148224,"36 Kenyatta Avenue",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2250,HaDe16353224,"28 Dangote Drive",Deka,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2251,SoRu38491224,"47 Pwani Ya Joto Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2252,AkKi01151224,"143 Ziwa Nyeusi Street",Kintampo,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2253,HaRu18454224,"74 Kano Street",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2254,SoRu37036224,"159 Ellen Johnson Sirleaf Street",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2255,SoRu34999224,"7 Fennec Way",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2256,AmBe11282224,"119 Mbuzi Mbeki Street",Bello,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2257,SoRu38363224,"44 Mlima Wa Uzuri Avenue",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2258,AkRu07485224,"55 Bahari Ya Kunata Avenue",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2259,AkHa00518224,"36 Ukingo Mkuu Drive",Harare,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2260,AmAs10580224,"71 Nadi Kijani Lane",Asmara,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2261,HaYa21525224,"62 Wangari Maathai Avenue",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2262,AkRu06465224,"160 Punda Kagame Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2263,SoMa34605224,"95 Thomas Mapfumo Road",Marang,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2264,AkRu04613224,"8 Marrakech Avenue",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2265,KiRu25808224,"81 Acacia Lane",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2266,AmRu15018224,"37 Mbuni Soyinka Avenue",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2267,AkRu04705224,"40 Windhoek Way",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2268,AmDa11554224,"42 Mamba Amina Way",Dahabu,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2269,SoBa31442224,"53 Stanley Avenue",Bahari,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2270,KiRu29193224,"44 Bahari Ya Faraja Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2271,HaRu17764224,"64 Tunis Road",Rural,Hawassa,river,NULL,NULL,Backlog,NULL,NULL
+2272,AkRu07264224,"143 Ukingo Wa Jua Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2273,AkRu07452224,"61 Bahari Ya Kunata Avenue",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2274,AmAs10117224,"80 Tembo Road",Asmara,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2275,HaAm16137224,"23 Kifaru Lumumba Road",Amina,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2276,HaRu18761224,"85 Amin Road",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2277,AkRu04157224,"187 Victoria Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2278,KiIs23848224,"55 Farasi Makeba Street",Isiqalo,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2279,SoRu38041224,"15 Paka Dangote Street",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2280,SoCh32072224,"18 Lusaka Road",Cheche,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2281,KiHa22739224,"167 Tripoli Street",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2282,AmAs10728224,"40 Jangwa La Fisi Street",Asmara,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2283,KiRu30258224,"14 Afro Blue Drive",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2284,AkRu04275224,"197 Asmara Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2285,AmRu13632224,"105 Casablanca Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2286,AkLu02017224,"133 Kumasi Street",Lusaka,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2287,KiRu26050224,"77 Nyerere Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2288,AkRu03141224,"39 Asmara Boulevard",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2289,KiRu27680224,"83 Desmond Tutu Street",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2290,KiMr24538224,"44 Okocha Street",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2291,AmPw12365224,"94 Jengo Street",Pwani,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2292,HaRu17230224,"20 Savannah Grove",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2293,AkHa00420224,"139 Oliver Tambo Street",Harare,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2294,KiHa23170224,"104 Port Said Street",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2295,SoMa33796224,"138 Cissé Road",Majengo,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2296,AmAb08943224,"29 Atlas Mountain Crest",Abidjan,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2297,SoRu36686224,"97 Machel Lane",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2298,HaRu19644224,"48 Mto Mandela Avenue",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2299,AmDa12096224,"53 Mto Msafi Road",Dahabu,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2300,KiRu28575224,"15 Ndege Khama Drive",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2301,KiRu28862224,"121 Ziwa La Kioo Road",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2302,SoRu37799224,"134 Kuku Kenyatta Road",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2303,KiRu30540224,"126 Sahara Street",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2304,HaZa21894224,"35 Miriam Makeba Drive",Zanzibar,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2305,KiRu26715224,"120 N'Djamena Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2306,KiRu30549224,"70 Sahara Street",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2307,AmRu15184224,"159 Mawimbi Maji Street",Rural,Amanzi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2308,HaRu18607224,"198 Kano Street",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2309,HaRu17689224,"13 Constantine Road",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2310,KiRu30425224,"144 Kinshasa Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2311,SoRu37242224,"70 Nelson Mandela Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2312,SoRu34956224,"39 Serpent Rise",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2313,AmRu13236224,"129 Hurghada Street",Rural,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2314,SoRu37588224,"19 Panya Zinjathropus Avenue",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2315,SoRu39121224,"46 Youssou N'Dour Road",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2316,AkRu04160224,"30 Victoria Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2317,SoMa34043224,"81 Yaya Touré Lane",Majengo,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2318,AmAs10049224,"149 Tembo Road",Asmara,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2319,KiRu25746224,"42 Acacia Lane",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2320,AkRu06981224,"27 Fisi Nkrumah Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2321,KiRu25906224,"44 Kalahari Avenue",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2322,KiRu30584224,"131 Sahara Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2323,KiRu29376224,"11 Bahari Ya Uzuri Drive",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2324,SoIl32428224,"126 Sfax Street",Ilanga,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2325,AmPw12669224,"8 Lagos Street",Pwani,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2326,HaDj16740224,"14 Durban Road",Djenne,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2327,AkLu02062224,"182 Kumasi Street",Lusaka,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2328,SoRu38174224,"127 Mto Wa Uzima Street",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2329,AmRu14092224,"40 Senghor Way",Rural,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2330,KiZu31172224,"33 Conakry Street",Zuri,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2331,HaRu20828224,"131 Tuku Street",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2332,AmRu14021224,"43 Selassie Drive",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2333,SoRu36457224,"18 Nkrumah Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2334,HaZa21854224,"13 Jomo Kenyatta Avenue",Zanzibar,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2335,HaRu18286224,"57 Abuja Avenue",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2336,KiRu28143224,"40 Nyuki Okonjo Drive",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2337,HaRu19503224,"62 Mnyama Dangote Road",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2338,AkRu07959224,"152 Maji Mema Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2339,SoMa33735224,"33 Algiers Road",Majengo,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2340,KiRu26069224,"62 Nyerere Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2341,SoRu39056224,"75 Youssou N'Dour Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2342,HaYa21366224,"39 Okapi Road",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2343,AmPw12623224,"42 Lagos Street",Pwani,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2344,HaDj16905224,"33 Fela Kuti Boulevard",Djenne,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2345,KiRu30340224,"123 Kinshasa Road",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2346,AmAs10414224,"26 Eto'o Street",Asmara,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2347,AkRu05384224,"19 Wole Soyinka Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2348,KiRu26563224,"16 Praia Avenue",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2349,KiMr25038224,"33 Ziwa La Tumaini Drive",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2350,SoRu38964224,"79 Asimbonanga Road",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2351,KiHa22801224,"74 Tripoli Street",Harare,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2352,KiRu28476224,"113 Sungura Amanpour Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2353,HaRu19740224,"20 Mlima Tazama Avenue",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2354,AmAs10507224,"111 Nadi Kijani Lane",Asmara,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2355,SoRu39565224,"143 Angelique Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2356,AmAs10116224,"15 Tembo Road",Asmara,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2357,HaRu18452224,"159 Kano Street",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2358,KiRu29645224,"65 Ziwa La Upendo Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2359,AmRu14895224,"39 Ngiri Achebe Drive",Rural,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2360,AmRu13941224,"72 Timbuktu Road",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2361,AmRu13103224,"42 Cairo Road",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2362,HaRu18125224,"45 Djibouti Drive",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2363,KiRu29556224,"179 Bahari Nyeupe Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2364,KiIs24172224,"106 Kiboko Senghor Road",Isiqalo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2365,AkRu08321224,"28 Freedom Road",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2366,AkRu02679224,"69 Nyota Avenue",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2367,SoRu35879224,"17 Mombasa Road",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2368,SoRu36828224,"133 Kamuzu Banda Road",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2369,KiMr24969224,"169 Mlima Wa Matumaini Street",Mrembo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2370,HaRu19397224,"46 Twiga Lumumba Boulevard",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2371,KiRu27159224,"86 Maseru Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2372,AkRu07629224,"70 Mto Wa Furaha Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2373,KiRu29430224,"155 Bahari Nyeupe Street",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2374,KiIs23958224,"174 Farasi Makeba Street",Isiqalo,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2375,AkRu08803224,"150 Ladysmith Black Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2376,KiMr25192224,"39 Afrobeats Street",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2377,SoMa33785224,"130 Cissé Road",Majengo,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2378,SoIl32579224,"110 Pwani Mchangani Road",Ilanga,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2379,SoMa33615224,"60 Luxor Avenue",Majengo,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2380,SoIl32519224,"97 Sfax Street",Ilanga,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2381,AkRu05100224,"113 Bissau Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2382,AkRu06554224,"107 Popo Kamuzu Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2383,SoRu38864224,"46 Cape Town Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2384,AmRu13596224,"16 Casablanca Street",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2385,AkRu07136224,"137 Simba Tutu Street",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2386,SoRu37123224,"45 Nelson Mandela Street",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2387,HaAm16065224,"31 Garang Street",Amina,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2388,SoRu39175224,"32 Youssou N'Dour Road",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2389,SoBa31655224,"151 Kwame Nkrumah Street",Bahari,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2390,SoRu37629224,"69 Panya Zinjathropus Avenue",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2391,KiZu30959224,"4 Yaounde Street",Zuri,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2392,AmRu13297224,"184 Hurghada Street",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2393,AmAs10131224,"47 Tembo Road",Asmara,Amanzi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2394,KiRu28740224,"189 Bahari Nzuri Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2395,AkRu05440224,"138 Wole Soyinka Street",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2396,AkRu06936224,"33 Fisi Nkrumah Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2397,SoRu34861224,"31 Ndovu Avenue",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2398,SoRu34922224,"23 Serpent Rise",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2399,SoRu37260224,"56 Kofi Annan Avenue",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2400,HaRu17359224,"43 Tahrir Square",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2401,KiRu26901224,"118 Zanzibar Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2402,HaRu17568224,"19 Constantine Road",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2403,HaRu19467224,"67 Mnyama Dangote Road",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2404,KiRu28551224,"15 Sungura Amanpour Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2405,SoRu35723224,"38 Moroni Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2406,HaDe16382224,"71 Ndege Tambo Road",Deka,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2407,AkLu02398224,"45 Maji Matulivu Avenue",Lusaka,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2408,KiRu25961224,"32 Kalahari Avenue",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2409,KiRu28591224,"10 Ndege Khama Drive",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2410,AkRu06791224,"13 Chakula Ramaphosa Drive",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2411,AkRu06060224,"83 Simba Road",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2412,HaAm15969224,"64 Garang Street",Amina,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2413,KiRu30508224,"133 Sahara Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2414,KiAm22200224,"11 Mandela Avenue",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2415,HaRu20560224,"147 Gbenga Adeyinka Street",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2416,KiRu26733224,"109 N'Djamena Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2417,AkRu06398224,"148 Punda Kagame Street",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2418,SoRu36536224,"54 Machel Lane",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2419,AkRu07058224,"33 Simba Tutu Street",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2420,SoIl32607224,"9 Pwani Mchangani Road",Ilanga,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2421,HaRu19312224,"47 Kiboko Nkrumah Lane",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2422,KiRu30003224,"38 Special Star Road",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2423,AmRu15538224,"150 Jerusalema Lane",Rural,Amanzi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2424,AkRu02703224,"31 Nyota Avenue",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2425,HaAm15917224,"110 Garang Street",Amina,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2426,AmAs10121224,"6 Tembo Road",Asmara,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2427,KiRu27633224,"32 Desmond Tutu Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2428,HaDj16796224,"26 Durban Road",Djenne,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2429,AkRu04956224,"109 Bissau Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2430,SoRu35231224,"99 Nile Street",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2431,KiZu31032224,"26 Yaounde Street",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2432,AmBe11326224,"166 Mbuzi Mbeki Street",Bello,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2433,HaDe16344224,"47 Dangote Drive",Deka,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2434,KiIs23581224,"117 Langata Road",Isiqalo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2435,HaDj16733224,"94 Durban Road",Djenne,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2436,KiAm22034224,"120 Lome Street",Amara,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2437,KiRu27415224,"82 Kaduna Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2438,SoRu38773224,"11 Mto Wa Ukarimu Street",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2439,SoRu38376224,"9 Mlima Wa Uzuri Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2440,KiAm22424224,"8 Nguvu Tutu Street",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2441,SoRu35925224,"179 Seychelles Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2442,KiZu31278224,"22 Conakry Street",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2443,KiRu26146224,"51 Nyerere Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2444,KiRu26531224,"58 Praia Avenue",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2445,SoRu36388224,"6 Nkrumah Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2446,KiAm22256224,"189 Nguvu Tutu Street",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2447,SoRu35366224,"104 Nile Street",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2448,KiRu29970224,"117 Special Star Road",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2449,KiAm21986224,"59 Lome Street",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2450,AkRu05474224,"104 Wole Soyinka Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2451,AkRu03479224,"6 Baobab Court",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2452,HaRu18699224,"123 Amin Road",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2453,AkRu03264224,"191 Savanna Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2454,AmRu15083224,"8 Mto Maridadi Avenue",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2455,KiRu29489224,"177 Bahari Nyeupe Street",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2456,KiZu31139224,"44 Conakry Street",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2457,SoBa31678224,"61 Kwame Nkrumah Street",Bahari,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2458,AmAm09519224,"82 Lumumba Lane",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2459,SoRu35728224,"33 Moroni Avenue",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2460,SoMa33627224,"24 Luxor Avenue",Majengo,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2461,SoRu37673224,"40 Tausi Lumumba Avenue",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2462,KiRu27717224,"178 Desmond Tutu Street",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2463,AkRu05562224,"170 Wole Soyinka Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2464,KiHa22800224,"145 Tripoli Street",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2465,KiMr24546224,"144 Okocha Street",Mrembo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2466,KiHa22965224,"170 Bujumbura Street",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2467,AkRu04407224,"61 Asmara Street",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2468,AkRu05504224,"175 Wole Soyinka Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2469,AkRu08067224,"17 Milima Nyeusi Drive",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2470,AkRu07395224,"15 Ukingo Wa Jua Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2471,KiAm22376224,"47 Nguvu Tutu Street",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2472,AmAm09360224,"20 Zambezi Way",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2473,KiRu29090224,"7 Njia Ya Maji Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2474,KiRu26769224,"137 N'Djamena Road",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2475,HaZa21701224,"18 Kampala Road",Zanzibar,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2476,SoRu36022224,"38 Seychelles Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2477,HaZa21811224,"2 Jomo Kenyatta Avenue",Zanzibar,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2478,HaDj16672224,"46 Durban Road",Djenne,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2479,AmRu13852224,"24 Timbuktu Road",Rural,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2480,HaRu17229224,"35 Savannah Grove",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2481,SoRu39370224,"26 Isicathamiya Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2482,KiRu28003224,"10 Duma Leakey Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2483,SoMa34275224,"104 Freetown Road",Marang,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2484,SoRu35451224,"43 Mandela Drive",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2485,KiMr24661224,"148 Kob Maathai Road",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2486,SoRu37868224,"127 Paka Dangote Street",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2487,AmRu15781224,"97 African Queen Road",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2488,SoRu37667224,"18 Tausi Lumumba Avenue",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2489,HaRu17740224,"7 Tunis Road",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2490,KiMr24369224,"32 Pretoria Avenue",Mrembo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2491,AmAs10642224,"69 Nadi Kijani Lane",Asmara,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2492,KiHa23187224,"63 Port Said Street",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2493,AkRu05275224,"106 Kenyatta Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2494,HaRu18643224,"131 Amin Road",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2495,KiRu27044224,"83 Zanzibar Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2496,AkRu04017224,"10 Moi Avenue",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2497,AkRu05185224,"123 Kenyatta Street",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2498,AkRu06402224,"38 Punda Kagame Street",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2499,AmAm09980224,"2 Afro Jazz Street",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2500,HaRu19414224,"22 Twiga Lumumba Boulevard",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2501,HaRu20482224,"45 Gbenga Adeyinka Street",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2502,KiHa23258224,"136 Port Said Street",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2503,AkRu07950224,"114 Maji Mema Street",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2504,HaYa21611224,"33 Djembe Drive",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2505,AkRu03196224,"27 Kigali Place",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2506,AmBe11266224,"62 Mbuzi Mbeki Street",Bello,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2507,KiRu27007224,"132 Zanzibar Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2508,HaRu18065224,"18 Bamenda Boulevard",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2509,KiRu29638224,"147 Ziwa La Upendo Street",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2510,SoRu36688224,"166 Machel Lane",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2511,SoKo33058224,"9 Akili Parkway",Kofi,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2512,SoRu35056224,"38 Lusaka Circle",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2513,SoRu35097224,"17 Zamalek Parkway",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2514,HaRu17973224,"176 Lubumbashi Lane",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2515,KiIs24058224,"20 Jengo Khama Avenue",Isiqalo,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2516,KiRu29882224,"114 Special Star Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2517,HaRu19912224,"131 Chanzo Cha Furaha Road",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2518,AkRu08020224,"44 Milima Nyeusi Drive",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2519,KiRu28362224,"10 Twiga Kagame Avenue",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2520,HaSe20986224,"109 Serengeti Road",Serowe,Hawassa,river,NULL,NULL,Backlog,NULL,NULL
+2521,HaYa21577224,"17 Djembe Drive",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2522,AkRu03092224,"29 Swahili Grove",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2523,SoRu38233224,"188 Mto Wa Uzima Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2524,HaRu17606224,"58 Constantine Road",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2525,AmRu13915224,"145 Timbuktu Road",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2526,HaRu19166224,"16 Miriam Makeba Drive",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2527,KiRu25457224,"46 Uhuru Square",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2528,AkHa00525224,"27 Ukingo Mkuu Drive",Harare,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2529,KiRu28044224,"73 Duma Leakey Road",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2530,HaYa21475224,"91 Okapi Road",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2531,KiHa23163224,"80 Port Said Street",Harare,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2532,AkRu04472224,"13 Antananarivo Road",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2533,AmAs10275224,"161 Eto'o Street",Asmara,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2534,HaRu20017224,"74 Milima Kali Street",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2535,SoMa34240224,"23 Freetown Road",Marang,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2536,KiHa23052224,"94 Bujumbura Street",Harare,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2537,KiZu30798224,"88 Banjul Street",Zuri,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2538,AkHa00023224,"147 Addis Ababa Road",Harare,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2539,HaRu20374224,"1 Johnny Street",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2540,SoMa34286224,"100 Freetown Road",Marang,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2541,AkRu06513224,"97 Popo Kamuzu Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2542,HaRu19898224,"135 Chanzo Cha Furaha Road",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2543,AmRu15471224,"194 Jerusalema Lane",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2544,HaRu17296224,"11 Tangier Terrace",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2545,KiMr25102224,"76 Afrobeats Street",Mrembo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2546,KiHa22823224,"139 Tripoli Street",Harare,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2547,AmAb09110224,"150 Kinshasa Road",Abidjan,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2548,HaRu18181224,"11 Tripoli Terrace",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2549,AkHa00643224,"13 Yvonne Chaka Street",Harare,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2550,AmBe10943224,"87 Achebe Street",Bello,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2551,SoRu35734224,"105 Mombasa Road",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2552,SoRu34860224,"38 Ndovu Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2553,AkRu07163224,"116 Simba Tutu Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2554,SoRu35549224,"152 Monrovia Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2555,KiMr24311224,"17 Sokoto Avenue",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2556,AkLu02018224,"188 Kumasi Street",Lusaka,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2557,AkHa00728224,"156 Yvonne Chaka Street",Harare,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2558,SoRu36864224,"172 Ellen Johnson Sirleaf Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2559,AkLu01945224,"41 Kumasi Street",Lusaka,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2560,KiRu25767224,"57 Acacia Lane",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2561,AmRu14753224,"198 Nyama Choma Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2562,AkLu01672224,"111 Mogadishu Road",Lusaka,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2563,KiRu29030224,"54 Njia Ya Maji Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2564,AkRu04630224,"53 Marrakech Avenue",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2565,SoCh32252224,"3 Mali Avenue",Cheche,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2566,AkRu08834224,"95 Ladysmith Black Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2567,HaRu17029224,"108 Twiga Lane",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2568,AkRu02826224,"169 Nia Lane",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2569,KiMr24555224,"155 Okocha Street",Mrembo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2570,SoRu35631224,"75 Monrovia Street",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2571,AkRu04574224,"146 Antananarivo Road",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2572,KiRu28187224,"122 Kipepeo Johnson Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2573,AkRu04168224,"69 Victoria Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2574,HaRu17048224,"52 Twiga Lane",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2575,KiHa23368224,"79 Samora Machel Road",Harare,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2576,SoRu39400224,"31 Amadou & Mariam Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2577,KiAm22627224,"117 Bahari Ya Upendo Road",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2578,AmAm09581224,"186 Lumumba Lane",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2579,SoRu37069224,"148 Nelson Mandela Street",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2580,AkRu04772224,"103 Giza Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2581,SoRu39512224,"45 Angelique Street",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2582,AkRu02954224,"36 Sahara Terrace",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2583,AkRu05897224,"86 Mbeki Street",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2584,AmAm09438224,"22 Accra Avenue",Amina,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2585,SoRu37964224,"128 Paka Dangote Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2586,KiRu26585224,"24 Praia Avenue",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2587,SoRu35622224,"91 Monrovia Street",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2588,HaAm16061224,"184 Garang Street",Amina,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2589,AkHa00514224,"31 Ukingo Mkuu Drive",Harare,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2590,AmBe11218224,"161 Mbuzi Mbeki Street",Bello,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2591,HaDj16719224,"4 Durban Road",Djenne,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2592,HaSe21196224,"38 Umqombothi Avenue",Serowe,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2593,AkRu07225224,"140 Simba Tutu Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2594,KiAm22281224,"59 Nguvu Tutu Street",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2595,KiAm21928224,"12 Zanzibar Crossing",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2596,SoRu36408224,"43 Nkrumah Road",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2597,SoRu38155224,"109 Mto Wa Uzima Street",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2598,AmAb09093224,"75 Kinshasa Road",Abidjan,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2599,KiRu26416224,"49 Harare Drive",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2600,SoRu37321224,"39 Chui Wangari Drive",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2601,HaRu17430224,"196 Rhodes Street",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2602,KiRu29856224,"50 Soweto Blues Boulevard",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2603,HaYa21450224,"59 Okapi Road",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2604,SoRu34864224,"33 Ndovu Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2605,AmAs10514224,"83 Nadi Kijani Lane",Asmara,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2606,AkRu04260224,"106 Asmara Street",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2607,AkRu08319224,"15 Freedom Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2608,AmDa11843224,"129 Nyoka Achebe Street",Dahabu,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2609,KiIs23710224,"131 Cape Coast Road",Isiqalo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2610,AkRu04889224,"93 Giza Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2611,AkLu02394224,"39 Maji Matulivu Avenue",Lusaka,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2612,SoBa31481224,"7 Stanley Avenue",Bahari,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2613,SoRu36007224,"166 Seychelles Street",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2614,AmDa11986224,"49 Nyoka Achebe Street",Dahabu,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2615,KiRu27562224,"60 Amanpour Avenue",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2616,AkRu07926224,"32 Maji Mema Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2617,KiAm22233224,"37 Nguvu Tutu Street",Amara,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2618,SoRu39363224,"10 Isicathamiya Avenue",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2619,AmAs10780224,"164 Jangwa La Fisi Street",Asmara,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2620,KiRu26439224,"11 Harare Drive",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2621,SoKo33321224,"5 Chura Mandela Avenue",Kofi,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2622,KiRu25305224,"174 Mwanza Street",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2623,KiZu30879224,"87 Banjul Street",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2624,HaRu17464224,"169 Rhodes Street",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2625,SoRu37858224,"10 Kuku Kenyatta Road",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2626,AkRu06369224,"26 Punda Kagame Street",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2627,HaDj16820224,"47 Nairobi Drive",Djenne,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2628,AmBe11234224,"112 Mbuzi Mbeki Street",Bello,Amanzi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2629,AkHa00550224,"152 Yvonne Chaka Street",Harare,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2630,KiRu25798224,"23 Acacia Lane",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2631,HaAm16156224,"18 Kifaru Lumumba Road",Amina,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2632,HaRu17642224,"90 Constantine Road",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2633,HaRu19184224,"99 Kiboko Nkrumah Lane",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2634,HaAm16080224,"129 Garang Street",Amina,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2635,AkRu04196224,"29 Victoria Street",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2636,AmRu13539224,"37 Casablanca Street",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2637,KiRu28872224,"86 Ziwa La Kioo Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2638,KiRu30169224,"26 Burna Boy Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2639,AmRu15648224,"39 Scatterlings Avenue",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2640,SoBa31597224,"104 Kwame Nkrumah Street",Bahari,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2641,AmRu13276224,"15 Hurghada Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2642,SoRu38590224,"12 Mlima Wa Ufalme Avenue",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2643,AmDa12160224,"46 Osibisa Drive",Dahabu,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2644,HaRu20196224,"38 Mawimbi Makuu Drive",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2645,KiRu26460224,"67 Alexandria Avenue",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2646,AkRu05432224,"174 Wole Soyinka Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2647,AkRu05514224,"97 Wole Soyinka Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2648,SoRu36913224,"144 Ellen Johnson Sirleaf Street",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2649,HaRu17872224,"174 Lubumbashi Lane",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2650,KiAm22302224,"139 Nguvu Tutu Street",Amara,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2651,KiMr24411224,"146 Okocha Street",Mrembo,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2652,AmRu14463224,"5 Jomo Kenyatta Boulevard",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2653,AkRu03223224,"109 Savanna Street",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2654,AkRu03627224,"70 Koinange Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2655,KiHa22747224,"185 Tripoli Street",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2656,AmRu15565224,"29 Jerusalema Lane",Rural,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2657,KiRu30041224,"157 Burna Boy Street",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2658,HaRu17955224,"68 Lubumbashi Lane",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2659,AkRu07403224,"99 Ukingo Wa Jua Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2660,KiRu29029224,"150 Njia Ya Maji Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2661,KiZu31054224,"101 Yaounde Street",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2662,KiRu28477224,"14 Sungura Amanpour Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2663,SoCh32088224,"71 Lusaka Road",Cheche,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2664,HaRu17132224,"91 Twiga Lane",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2665,KiRu28918224,"148 Ziwa La Kioo Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2666,KiRu30437224,"128 Sahara Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2667,KiRu27328224,"56 Bloemfontein Boulevard",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2668,SoBa31791224,"169 Chura Usman Street",Bahari,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2669,SoIl32469224,"10 Sfax Street",Ilanga,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2670,SoIl32855224,"86 Cape Verde Street",Ilanga,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2671,SoRu36398224,"65 Nkrumah Road",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2672,SoRu35969224,"141 Seychelles Street",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2673,HaRu17262224,"13 Tangier Terrace",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2674,KiRu28025224,"76 Duma Leakey Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2675,AkRu02937224,"34 Sahara Terrace",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2676,HaRu17463224,"134 Rhodes Street",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2677,AmAb09285224,"52 N'dour Avenue",Abidjan,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2678,AkRu04576224,"112 Antananarivo Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2679,HaRu18039224,"57 Lubumbashi Lane",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2680,HaDe16537224,"30 Yvonne Chaka Road",Deka,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2681,HaAm16256224,"67 Ziwa La Kutazama Avenue",Amina,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2682,HaDj16735224,"48 Durban Road",Djenne,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2683,KiRu25636224,"24 Kitale Drive",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2684,SoRu38830224,"27 Cape Town Avenue",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2685,SoRu34790224,"58 Amani Loop",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2686,KiIs24221224,"37 Kiboko Senghor Road",Isiqalo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2687,KiRu25386224,"16 Mwanza Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2688,KiRu26359224,"190 Kimathi Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2689,HaRu18053224,"116 Lubumbashi Lane",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2690,AmRu15062224,"67 Mto Maridadi Avenue",Rural,Amanzi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2691,KiRu28788224,"1 Bahari Nzuri Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2692,HaDe16605224,"1 Yvonne Chaka Road",Deka,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2693,HaRu18419224,"29 Harare Avenue",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2694,KiMr25227224,"28 Afrobeats Street",Mrembo,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2695,HaRu20350224,"143 Johnny Street",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2696,SoCh32004224,"51 Bamako Road",Cheche,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2697,AkRu03390224,"154 Savanna Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2698,KiMr24735224,"67 Kob Maathai Road",Mrembo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2699,AmRu13599224,"70 Casablanca Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2700,SoRu34852224,"67 Ndovu Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2701,SoKo33296224,"47 Chura Mandela Avenue",Kofi,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2702,KiRu30360224,"12 Kinshasa Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2703,AmDa11484224,"172 Johannesburg Street",Dahabu,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2704,HaRu17878224,"108 Lubumbashi Lane",Rural,Hawassa,river,NULL,NULL,Backlog,NULL,NULL
+2705,SoIl32569224,"77 Pwani Mchangani Road",Ilanga,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2706,AkLu02325224,"81 Okonjo-Iweala Street",Lusaka,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2707,AkRu08518224,"72 African Skies Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2708,HaDj16702224,"148 Durban Road",Djenne,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2709,HaRu20400224,"39 Johnny Street",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2710,AmPw12422224,"136 Jengo Street",Pwani,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2711,AmAs10013224,"4 Tembo Road",Asmara,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2712,AkRu04481224,"19 Antananarivo Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2713,AkHa00620224,"122 Yvonne Chaka Street",Harare,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2714,KiRu28943224,"54 Ziwa La Kioo Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2715,SoRu37988224,"136 Paka Dangote Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2716,AkRu03705224,"47 Lumumba Street",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2717,KiZu31379224,"53 Mto Wa Maji Avenue",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2718,KiRu29245224,"140 Bahari Ya Faraja Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2719,AkRu06505224,"114 Popo Kamuzu Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2720,SoCh31955224,"124 Bamako Road",Cheche,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2721,SoRu38391224,"67 Mlima Wa Uzuri Avenue",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2722,HaRu19472224,"125 Mnyama Dangote Road",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2723,HaRu18000224,"97 Lubumbashi Lane",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2724,AmPw12350224,"104 Jengo Street",Pwani,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2725,AmAm09896224,"131 Afro Jazz Street",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2726,AkRu02677224,"54 Nyota Avenue",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2727,AkRu03744224,"141 Lumumba Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2728,HaRu20449224,"146 Johnny Street",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2729,AmRu13680224,"58 Khartoum Avenue",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2730,HaRu20030224,"178 Milima Kali Street",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2731,HaZa21822224,"46 Jomo Kenyatta Avenue",Zanzibar,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2732,AmDa11357224,"58 Johannesburg Street",Dahabu,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2733,KiZu30968224,"124 Yaounde Street",Zuri,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2734,KiRu27270224,"9 Bloemfontein Boulevard",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2735,AmBe11000224,"179 Achebe Street",Bello,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2736,AkLu02097224,"51 Kumasi Street",Lusaka,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2737,AmRu15286224,"137 Mawimbi Maji Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2738,KiRu25678224,"83 Acacia Lane",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2739,AkKi01469224,"88 Zambezi Street",Kintampo,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2740,HaRu19203224,"167 Kiboko Nkrumah Lane",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2741,AmAm09626224,"90 Lumumba Lane",Amina,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2742,HaRu17197224,"33 Marrakech Terrace",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2743,AkRu05990224,"55 Simba Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2744,HaRu17049224,"103 Twiga Lane",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2745,AkRu04581224,"3 Marrakech Avenue",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2746,KiRu26183224,"65 Nyerere Road",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2747,HaDe16464224,"10 Ndege Tambo Road",Deka,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2748,SoRu37087224,"174 Nelson Mandela Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2749,AmRu13936224,"91 Timbuktu Road",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2750,KiRu30238224,"8 Afro Blue Drive",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2751,HaDe16446224,"16 Ndege Tambo Road",Deka,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2752,KiAm22526224,"82 Bahari Ya Upendo Road",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2753,KiRu28540224,"75 Sungura Amanpour Road",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2754,SoCh32043224,"21 Bamako Road",Cheche,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2755,AmAm09639224,"126 Lumumba Lane",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2756,AmRu14661224,"174 Nyama Choma Street",Rural,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2757,KiRu26737224,"7 N'Djamena Road",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2758,SoMa33744224,"57 Algiers Road",Majengo,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2759,AmAm09540224,"11 Lumumba Lane",Amina,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2760,KiHa22802224,"150 Tripoli Street",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2761,AkRu03367224,"128 Savanna Street",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2762,HaZa21641224,"27 Serengeti Court",Zanzibar,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2763,HaRu19466224,"19 Mnyama Dangote Road",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2764,KiRu29340224,"47 Pwani Ya Utulivu Drive",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2765,HaRu18157224,"33 Djibouti Drive",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2766,SoIl32581224,"123 Pwani Mchangani Road",Ilanga,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2767,SoRu38238224,"2 Mto Wa Uzima Street",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2768,AkRu07953224,"10 Maji Mema Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2769,HaZa21864224,"16 Jomo Kenyatta Avenue",Zanzibar,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2770,KiRu27254224,"44 Maseru Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2771,SoRu34884224,"4 Ndovu Avenue",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2772,SoBa31806224,"53 Chura Usman Street",Bahari,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2773,AkLu01787224,"150 Lilongwe Street",Lusaka,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2774,SoRu38619224,"36 Mlima Wa Ufalme Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2775,HaRu19550224,"133 Mnyama Dangote Road",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2776,AkRu02873224,"197 Nia Lane",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2777,SoRu35974224,"78 Seychelles Street",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2778,AmDa11945224,"15 Nyoka Achebe Street",Dahabu,Amanzi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2779,KiRu25330224,"29 Mwanza Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2780,AmRu13055224,"57 Cairo Road",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2781,SoKo33380224,"160 Mlima Wa Hekima Street",Kofi,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2782,HaRu17891224,"173 Lubumbashi Lane",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2783,KiRu26094224,"52 Nyerere Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2784,HaRu18721224,"64 Amin Road",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2785,KiRu30617224,"105 Sahara Street",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2786,KiRu25962224,"3 Kalahari Avenue",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2787,KiRu30575224,"34 Sahara Street",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2788,SoRu37045224,"30 Ellen Johnson Sirleaf Street",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2789,HaRu17661224,"76 Constantine Road",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2790,HaRu17846224,"15 Tunis Road",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2791,AkRu03482224,"15 Baobab Court",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2792,KiHa22846224,"34 Dar es Salaam Drive",Harare,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2793,KiRu28200224,"69 Kipepeo Johnson Street",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2794,SoRu38656224,"141 Mto Wa Ukarimu Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2795,AkLu02300224,"14 Okonjo-Iweala Street",Lusaka,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2796,SoBa31784224,"104 Chura Usman Street",Bahari,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2797,KiRu27673224,"35 Desmond Tutu Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2798,SoMa34494224,"36 Thomas Mapfumo Road",Marang,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2799,SoBa31636224,"126 Kwame Nkrumah Street",Bahari,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2800,AmRu15173224,"72 Mawimbi Maji Street",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2801,SoRu39194224,"32 Hugh Masekela Avenue",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2802,AkRu08015224,"163 Maji Mema Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2803,KiAm22330224,"36 Nguvu Tutu Street",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2804,AmAs10281224,"102 Eto'o Street",Asmara,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2805,AkRu05792224,"26 Mbeki Street",Rural,Akatsi,river,NULL,NULL,Backlog,NULL,NULL
+2806,SoRu35147224,"43 Kenyatta Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2807,AmAb09289224,"8 N'dour Avenue",Abidjan,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2808,AmAs10327224,"31 Eto'o Street",Asmara,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2809,AmPw12271224,"32 Zuri Place",Pwani,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2810,KiRu28936224,"24 Ziwa La Kioo Road",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2811,AkRu07931224,"57 Maji Mema Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2812,AmRu13424224,"51 Windhoek Way",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2813,HaDe16496224,"99 Ndege Tambo Road",Deka,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2814,AmAb09015224,"122 Kinshasa Road",Abidjan,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2815,SoRu37665224,"60 Tausi Lumumba Avenue",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2816,AmRu14382224,"28 Leakey Avenue",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2817,AkHa00063224,"68 Addis Ababa Road",Harare,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2818,HaRu17266224,"45 Tangier Terrace",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2819,KiHa23379224,"141 Samora Machel Road",Harare,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2820,SoRu37442224,"75 Soko Soyinka Road",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2821,KiRu28481224,"89 Sungura Amanpour Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2822,SoRu37055224,"38 Nelson Mandela Street",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2823,KiRu30664224,"42 Salif Keita Drive",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2824,SoMa34154224,"48 Mawimbi Mafupi Drive",Majengo,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2825,HaRu17129224,"179 Twiga Lane",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2826,AkRu07669224,"45 Mto Wa Furaha Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2827,AmRu13164224,"32 Hurghada Street",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2828,KiMr25207224,"199 Afrobeats Street",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2829,KiAm21987224,"143 Lome Street",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2830,AmRu13245224,"104 Hurghada Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2831,SoRu35768224,"103 Mombasa Road",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2832,KiZu30996224,"91 Yaounde Street",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2833,HaRu17777224,"87 Tunis Road",Rural,Hawassa,river,NULL,NULL,Backlog,NULL,NULL
+2834,HaYa21358224,"60 Okapi Road",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2835,AkRu03789224,"163 Lumumba Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2836,KiRu26071224,"117 Nyerere Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2837,AmRu13398224,"42 Windhoek Way",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2838,HaRu19689224,"49 Mamba Biko Drive",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2839,AkRu02666224,"57 Nyota Avenue",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2840,AkRu08448224,"75 African Skies Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2841,SoRu38143224,"50 Mto Wa Uzima Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2842,SoRu35603224,"38 Monrovia Street",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2843,SoMa34500224,"89 Thomas Mapfumo Road",Marang,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2844,KiMr25143224,"115 Afrobeats Street",Mrembo,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2845,HaRu18193224,"30 Tripoli Terrace",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2846,KiRu30386224,"104 Kinshasa Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2847,AmRu12894224,"46 Nairobi Boulevard",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2848,AkKi00863224,"60 Tunis Street",Kintampo,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2849,AkRu05319224,"192 Kenyatta Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2850,KiHa23431224,"11 Ladysmith Drive",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2851,AmBe11123224,"42 Achebe Street",Bello,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2852,SoIl32961224,"20 Cape Verde Street",Ilanga,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2853,HaYa21538224,"39 Wangari Maathai Avenue",Yaounde,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2854,HaRu20267224,"4 Malaika Drive",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2855,AmAm09516224,"83 Lumumba Lane",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2856,HaRu20598224,"69 Gbenga Adeyinka Street",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2857,SoRu38200224,"25 Mto Wa Uzima Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2858,SoMa33953224,"9 Yaya Touré Lane",Majengo,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2859,KiRu29760224,"161 Ziwa La Upendo Street",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2860,AmAm09946224,"15 Afro Jazz Street",Amina,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2861,KiHa22804224,"114 Tripoli Street",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2862,KiRu27139224,"2 Maseru Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2863,AmRu13154224,"41 Hurghada Street",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2864,HaZa21664224,"38 Kampala Road",Zanzibar,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2865,HaRu18879224,"55 Zuma Avenue",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2866,SoRu39349224,"31 Isicathamiya Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2867,SoRu39192224,"42 Hugh Masekela Avenue",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2868,HaSe21230224,"89 Afro Beat Road",Serowe,Hawassa,river,NULL,NULL,Backlog,NULL,NULL
+2869,KiHa23417224,"134 Samora Machel Road",Harare,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2870,AmRu14192224,"119 Zinjathropus Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2871,AmRu13911224,"73 Timbuktu Road",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2872,HaRu20508224,"7 Gbenga Adeyinka Street",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2873,HaDj16742224,"110 Durban Road",Djenne,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2874,SoBa31535224,"136 Kwame Nkrumah Street",Bahari,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2875,SoMa34346224,"21 Lilongwe Drive",Marang,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2876,AkRu05274224,"78 Kenyatta Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2877,KiRu28730224,"125 Bahari Nzuri Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2878,AmRu15235224,"108 Mawimbi Maji Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2879,AkRu06790224,"25 Chakula Ramaphosa Drive",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2880,SoRu38110224,"28 Njia Ya Mlima Avenue",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2881,KiRu30073224,"136 Burna Boy Street",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2882,SoRu39287224,"16 Shakira Drive",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2883,SoRu35480224,"39 Monrovia Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2884,HaZa21800224,"34 Jomo Kenyatta Avenue",Zanzibar,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2885,SoRu38731224,"62 Mto Wa Ukarimu Street",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2886,AkRu08111224,"117 Pwani Ya Utukufu Road",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2887,HaRu18523224,"44 Kano Street",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2888,SoIl32806224,"140 Bahari Tamu Road",Ilanga,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2889,KiIs23716224,"120 Cape Coast Road",Isiqalo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2890,SoRu37985224,"54 Paka Dangote Street",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2891,SoRu37403224,"1 Soko Soyinka Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2892,AmRu14726224,"31 Nyama Choma Street",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2893,HaDe16330224,"12 Dangote Drive",Deka,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2894,HaDj16888224,"35 Fela Kuti Boulevard",Djenne,Hawassa,river,NULL,NULL,Backlog,NULL,NULL
+2895,SoRu35116224,"35 Zamalek Parkway",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2896,AkHa00500224,"35 Ukingo Mkuu Drive",Harare,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2897,AkRu05701224,"140 Ramaphosa Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2898,KiZu30986224,"17 Yaounde Street",Zuri,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2899,AmAb09230224,"11 Fela Kuti Drive",Abidjan,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2900,HaDj16907224,"54 Fela Kuti Boulevard",Djenne,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2901,SoRu37993224,"9 Paka Dangote Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2902,AkRu02693224,"35 Nyota Avenue",Rural,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2903,AmRu15569224,"23 Jerusalema Lane",Rural,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2904,SoRu35772224,"82 Mombasa Road",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2905,AkRu07813224,"54 Ukingo Wa Mto Road",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2906,HaYa21353224,"69 Okapi Road",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2907,AmPw12485224,"78 Jengo Street",Pwani,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2908,AkRu08457224,"41 African Skies Street",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2909,SoRu38085224,"22 Njia Ya Mlima Avenue",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2910,KiRu25642224,"20 Kitale Drive",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2911,AkRu06698224,"15 Mbuni Nyerere Avenue",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2912,SoRu34985224,"3 Ebony Crest",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2913,SoKo33327224,"28 Chura Mandela Avenue",Kofi,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2914,AkRu05140224,"31 Luanda Boulevard",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2915,AkLu02408224,"52 Maji Matulivu Avenue",Lusaka,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2916,SoRu37256224,"65 Kofi Annan Avenue",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2917,KiRu29613224,"149 Bahari Nyeupe Street",Rural,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
+2918,HaRu17722224,"110 Tunis Road",Rural,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2919,SoMa34441224,"3 Usman dan Fodio Way",Marang,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2920,HaDe16640224,"15 Yvonne Chaka Road",Deka,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2921,HaAm16103224,"145 Kifaru Lumumba Road",Amina,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2922,HaRu17456224,"130 Rhodes Street",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2923,KiAm22496224,"57 Bahari Ya Upendo Road",Amara,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2924,SoMa34051224,"62 Yaya Touré Lane",Majengo,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2925,HaZa21636224,"13 Serengeti Court",Zanzibar,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2926,KiMr24405224,"49 Okocha Street",Mrembo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2927,KiRu26435224,"31 Harare Drive",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2928,HaRu19319224,"89 Kiboko Nkrumah Lane",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2929,KiIs23562224,"144 Langata Road",Isiqalo,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2930,AkLu01629224,"74 Mogadishu Road",Lusaka,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2931,AmRu14988224,"32 Nyati Zuma Drive",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2932,KiZu30698224,"166 Banjul Street",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2933,KiHa23078224,"60 Bujumbura Street",Harare,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2934,KiMr25047224,"176 Afrobeats Street",Mrembo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2935,SoRu39048224,"148 Youssou N'Dour Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2936,AmBe11192224,"168 Mbuzi Mbeki Street",Bello,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2937,AmRu13037224,"14 Cairo Road",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2938,AkRu05867224,"154 Mbeki Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2939,SoRu39644224,"6 Angelique Street",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2940,SoRu36677224,"106 Machel Lane",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2941,AkRu06056224,"37 Simba Road",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2942,AmAm09590224,"125 Lumumba Lane",Amina,Amanzi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2943,KiRu28465224,"67 Sungura Amanpour Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2944,AmRu12903224,"13 Ostrich Run",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2945,AkHa00532224,"12 Yvonne Chaka Street",Harare,Akatsi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2946,SoRu36243224,"19 Casablanca Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2947,KiRu25275224,"163 Mwanza Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2948,AkRu06845224,"185 Fisi Nkrumah Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2949,SoMa34182224,"122 Freetown Road",Marang,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2950,KiRu28241224,"86 Kipepeo Johnson Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2951,AkRu04974224,"85 Bissau Street",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2952,AmRu14853224,"45 Achebe Kifaru Drive",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2953,SoRu38744224,"1 Mto Wa Ukarimu Street",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2954,AmRu12913224,"30 Ostrich Run",Rural,Amanzi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2955,KiZu31346224,"14 Kagame Court",Zuri,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2956,KiRu30324224,"51 Kinshasa Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2957,SoCh32207224,"9 Mali Avenue",Cheche,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2958,AkRu08310224,"6 Freedom Road",Rural,Akatsi,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2959,KiRu29763224,"23 Ziwa La Upendo Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2960,HaDe16636224,"101 Yvonne Chaka Road",Deka,Hawassa,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2961,SoBa31567224,"154 Kwame Nkrumah Street",Bahari,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2962,HaYa21549224,"13 Wangari Maathai Avenue",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2963,HaRu17289224,"3 Tangier Terrace",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2964,AmAs10510224,"174 Nadi Kijani Lane",Asmara,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2965,HaRu16976224,"186 Twiga Lane",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2966,HaYa21373224,"44 Okapi Road",Yaounde,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2967,KiRu27334224,"54 Kaduna Road",Rural,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2968,SoRu38663224,"63 Mto Wa Ukarimu Street",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2969,SoRu35295224,"111 Nile Street",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2970,KiRu29839224,"25 Soweto Blues Boulevard",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2971,AkRu03554224,"145 Koinange Street",Rural,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2972,KiRu29297224,"75 Bahari Ya Faraja Road",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2973,HaRu19891224,"45 Chanzo Cha Furaha Road",Rural,Hawassa,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2974,SoRu34736224,"19 Simba Road",Rural,Sokoto,river,NULL,NULL,Backlog,NULL,NULL
+2975,AmRu15009224,"57 Mbuni Soyinka Avenue",Rural,Amanzi,river,NULL,NULL,Backlog,NULL,NULL
+2976,KiIs24074224,"35 Jengo Khama Avenue",Isiqalo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2977,KiRu29656224,"85 Ziwa La Upendo Street",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2978,HaRu20597224,"47 Gbenga Adeyinka Street",Rural,Hawassa,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2979,KiRu26776224,"34 N'Djamena Road",Rural,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2980,SoKo33065224,"31 Akili Parkway",Kofi,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2981,KiRu27217224,"51 Maseru Road",Rural,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2982,KiRu30214224,"17 Burna Boy Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2983,SoRu37393224,"93 Soko Soyinka Road",Rural,Sokoto,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2984,AkRu07031224,"6 Nungunungu Selassie Drive",Rural,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2985,SoRu37391224,"133 Soko Soyinka Road",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2986,SoRu36708224,"143 Kamuzu Banda Road",Rural,Sokoto,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2987,KiMr24355224,"18 Pretoria Avenue",Mrembo,Kilimani,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2988,AkKi01547224,"25 Femi Kuti Drive",Kintampo,Akatsi,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2989,SoRu35041224,"40 Fennec Way",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2990,KiZu31402224,"18 Mto Wa Maji Avenue",Zuri,Kilimani,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2991,AkKi01281224,"22 Ziwa Nyeusi Street",Kintampo,Akatsi,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2992,KiRu30146224,"34 Burna Boy Street",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2993,KiHa22873224,"47 Dar es Salaam Drive",Harare,Kilimani,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2994,KiRu30261224,"41 Afro Blue Drive",Rural,Kilimani,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2995,AmRu13565224,"126 Casablanca Street",Rural,Amanzi,tap_in_home_broken,NULL,NULL,Backlog,NULL,NULL
+2996,SoRu36013224,"192 Seychelles Street",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+2997,HaRu17668224,"126 Constantine Road",Rural,Hawassa,shared_tap,NULL,NULL,Backlog,NULL,NULL
+2998,SoRu39475224,"105 Angelique Street",Rural,Sokoto,well,"Contaminated: Chemical","Install RO filter",Backlog,NULL,NULL
+2999,SoRu38842224,"9 Cape Town Avenue",Rural,Sokoto,well,"Contaminated: Biological","Install UV filter",Backlog,NULL,NULL
+3000,KiMr24509224,"46 Okocha Street",Mrembo,Kilimani,river,NULL,NULL,Backlog,NULL,NULL
