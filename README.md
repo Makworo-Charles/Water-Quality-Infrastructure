@@ -2,7 +2,7 @@
 
 This project analyzes water quality data, infrastructure improvements, and various locations' employee performance for water sources. It uses SQL to join and filter data across multiple tables, identify problematic sources, and track project progress.
 
-![Project Overview](./Images/Screenshot_(5).png)
+![Project Overview](./Images/Screenshot-(5).png)
 
 ## Project Overview
 
