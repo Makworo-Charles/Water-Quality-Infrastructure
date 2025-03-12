@@ -17,11 +17,11 @@ The analysis is centered on:
 
 The project uses the following tables:
 
-- **'visits'**: Contains information on visits to each water source, including queue times and assigned employees.
-- **'well_pollution'**: Tracks pollution results for well water sources.
-- **'water_source'**: Stores metadata on each water source, including type and population served.
-- **'location'**: Stores location-specific information, including town, province, and address.
-- **'Project_progress'**: Tracks improvement projects for each source, including status and comments.
+- **`visits`**: Contains information on visits to each water source, including queue times and assigned employees.
+- **`well_pollution`**: Tracks pollution results for well water sources.
+- **`water_source`**: Stores metadata on each water source, including type and population served.
+- **`location`**: Stores location-specific information, including town, province, and address.
+- **`Project_progress`**: Tracks improvement projects for each source, including status and comments.
 
 ## Key Features
 
@@ -31,7 +31,7 @@ The project uses the following tables:
 
 ## How to Run the Project
 
-- Import the SQL files provided in the **'/sql'** directory.
+- Import the SQL files provided in the **`/sql`** directory.
 - Populate the database with sample data, following the instructions in data_loading.sql.
 - Execute the query files to generate views, track progress, and analyze data
 
