@@ -1,7 +1,7 @@
--- 1. Add Employees' Email Addresses (first_name.last_name@ndogowater.gov.
+-- 1. Add Employees Email Adresses (first_name.last_name@ndogowater.gov.
 
 /*- select the employee_name column
-- replace the space with a full-stop
+- replace the space with a full stop
 - make it lowercase
 - stitch it all together*/
 
@@ -12,7 +12,7 @@ REPLACE(employee_name, ' ','.')
 FROM
 employee;
 
--- b)Make it all lowercase
+-- b)Make it all lower case
 
 SELECT
 LOWER(REPLACE(employee_name, ' ','.'))
@@ -237,41 +237,41 @@ from visits;
 	
     
 SELECT
-  TIME_FORMAT(TIME(time_of_record), '%H:00') AS hour_of_day,
-  DAYNAME(time_of_record),
+TIME_FORMAT(TIME(time_of_record), '%H:00') AS hour_of_day,
+DAYNAME(time_of_record),
 CASE
 WHEN DAYNAME(time_of_record) = 'Sunday' THEN time_in_queue
 ELSE NULL
 END AS Sunday
 FROM
-  visits
+visits
 WHERE
-  time_in_queue != 0;
+time_in_queue != 0;
 
 
 SELECT
-  TIME_FORMAT(TIME(time_of_record), '%H:00') AS hour_of_day,
+TIME_FORMAT(TIME(time_of_record), '%H:00') AS hour_of_day,
 -- Sunday
-  ROUND(AVG(
+ROUND(AVG(
 CASE
 WHEN DAYNAME(time_of_record) = 'Sunday' THEN time_in_queue
 ELSE NULL
 END
-  ),0) AS Sunday,
+),0) AS Sunday,
 -- Monday
 ROUND(AVG(
 CASE
 WHEN DAYNAME(time_of_record) = 'Monday' THEN time_in_queue
 ELSE NULL
 END
-  ),0) AS Monday,
+),0) AS Monday,
 -- Tuesday
 ROUND(AVG(
 CASE
 WHEN DAYNAME(time_of_record) = 'Tuesday' THEN time_in_queue
 ELSE NULL
 END
-  ),0) AS Tuesday,
+),0) AS Tuesday,
 -- Wednesday
 ROUND(AVG(
 CASE
@@ -294,3 +294,289 @@ GROUP BY
 hour_of_day
 ORDER BY
 hour_of_day;
+
+-- 1. Create Auditor_report Table
+
+DROP TABLE IF EXISTS `auditor_report`;
+CREATE TABLE `auditor_report` (
+`location_id` VARCHAR(32),
+`type_of_water_source` VARCHAR(64),
+`true_water_source_score` int DEFAULT NULL,
+`statements` VARCHAR(255)
+);
+
+--  2.Is there a difference in the scores
+
+-- a)grab the location_id and true_water_source_score columns from auditor_report.
+SELECT
+	location_id,
+    true_water_source_score
+FROM md_water_services.auditor_report;
+
+-- b)join the visits table to the auditor_report table and retrieve the corresponding scores from the water_quality table. Limit to 10000 rows
+
+SELECT
+	Audit.location_id AS audit_location,
+    Visit.record_id,
+    Audit.true_water_source_score,
+    waterQ.subjective_quality_score AS Surveyor_Score
+FROM 
+	md_water_services.auditor_report AS Audit
+JOIN
+	md_water_services.visits AS Visit
+    ON Audit.location_id=Visit.location_id
+LEFT JOIN
+	md_water_services.water_quality AS waterQ
+    ON Visit.record_id=waterQ.record_id
+ WHERE
+	Audit.true_water_source_score = waterQ.subjective_quality_score
+    AND Visit.visit_count=1
+LIMIT 10000;
+
+-- generating incorrect entries
+
+SELECT
+	Audit.location_id AS audit_location,
+    Visit.record_id,
+    Audit.true_water_source_score,
+    waterQ.subjective_quality_score AS Surveyor_Score
+FROM 
+	md_water_services.auditor_report AS Audit
+JOIN
+	md_water_services.visits AS Visit
+    ON Audit.location_id=Visit.location_id
+LEFT JOIN
+	md_water_services.water_quality AS waterQ
+    ON Visit.record_id=waterQ.record_id
+ WHERE
+	Audit.true_water_source_score != waterQ.subjective_quality_score
+    AND Visit.visit_count=1
+LIMIT 10000;
+
+/*
+Grab the type_of_water_source column from the water_source table and call it survey_source, using thesource_id column to JOIN. 
+Also select the type_of_water_source from the auditor_report table, and call it auditor_source.
+*/
+SELECT
+	Audit.location_id AS audit_location,
+    Audit.type_of_water_source AS auditor_source,
+    WSource.type_of_water_source AS surveyor_source,
+    Visit.record_id,
+    Audit.true_water_source_score AS auditor_score,
+    waterQ.subjective_quality_score AS Surveyor_Score
+FROM 
+	md_water_services.auditor_report AS Audit
+JOIN
+	md_water_services.visits AS Visit
+    ON Audit.location_id=Visit.location_id
+JOIN
+	md_water_services.water_source AS WSource
+    ON Visit.source_id=WSource.source_id
+JOIN
+	md_water_services.water_quality AS waterQ
+    ON Visit.record_id=waterQ.record_id
+ WHERE
+	Audit.true_water_source_score != waterQ.subjective_quality_score
+    AND Visit.visit_count=1
+LIMIT 10000;
+
+-- Linking records to employees
+
+-- a)JOIN the assigned_employee_id for all the people on our list from the visits table to our query.
+-- b)Create a CTE and call it "Incorrect_records"
+WITH
+	Incorrect_records(
+SELECT
+	Audit.location_id AS audit_location,
+    Visit.record_id,
+    Employee.employee_name,
+    Audit.true_water_source_score AS Audit_score,
+    waterQ.subjective_quality_score AS Surveyor_Score
+FROM 
+	md_water_services.auditor_report AS Audit
+JOIN
+	md_water_services.visits AS Visit
+    ON Audit.location_id=Visit.location_id
+JOIN
+	md_water_services.employee AS Employee
+    ON Visit.assigned_employee_id=Employee.assigned_employee_id
+JOIN
+	md_water_services.water_quality AS waterQ
+    ON Visit.record_id=waterQ.record_id
+ WHERE
+	Audit.true_water_source_score != waterQ.subjective_quality_score
+    AND Visit.visit_count=1
+LIMIT 10000;
+
+
+/*
+1. Are there any specific provinces, or towns where some sources are more abundant?
+2. We identified that tap_in_home_broken taps are easy wins. Are there any towns where this is a particular problem?
+*/
+-- Start by joining location to visits.
+
+SELECT
+	loc.province_name,
+    loc.town_name,
+    vis.visit_count,
+    vis.location_id
+FROM
+	md_water_services.location AS loc
+JOIN
+	md_water_services.visits AS vis
+	ON loc.location_id=vis.location_id;
+    
+-- Now, we can join the water_source table on the key shared between water_source and visits.
+
+SELECT
+	loc.province_name,
+    loc.town_name,
+    vis.visit_count,
+    vis.location_id,
+    WSource.type_of_water_source,
+    WSource.number_of_people_served
+FROM
+	md_water_services.location AS loc
+JOIN
+	md_water_services.visits AS vis
+	ON loc.location_id=vis.location_id
+JOIN
+	md_water_services.water_source AS WSource
+    ON vis.source_id=WSource.source_id
+WHERE vis.visit_count = 1;
+
+-- Now that we verified that the table is joined correctly, we can remove the 'location_id' and 'visit_count' columns.
+-- Add the location_type column from location and time_in_queue from visits to our results set.
+
+SELECT
+	loc.province_name,
+    loc.town_name,
+    WSource.type_of_water_source,
+    loc.location_type,
+    WSource.number_of_people_served,
+    vis.time_in_queue
+FROM
+	md_water_services.location AS loc
+JOIN
+	md_water_services.visits AS vis
+	ON loc.location_id=vis.location_id
+JOIN
+	md_water_services.water_source AS WSource
+    ON vis.source_id=WSource.source_id
+WHERE vis.visit_count = 1;
+
+-- This table assembles data from different tables into one to simplify analysis
+
+SELECT
+water_source.type_of_water_source,
+location.town_name,
+location.province_name,
+location.location_type,
+water_source.number_of_people_served,
+visits.time_in_queue,
+well_pollution.results
+FROM
+visits
+LEFT JOIN
+well_pollution
+ON well_pollution.source_id = visits.source_id
+INNER JOIN
+location
+ON location.location_id = visits.location_id
+INNER JOIN
+water_source
+ON water_source.source_id = visits.source_id
+WHERE
+visits.visit_count = 1;
+
+--  Now we want to analyse the data in the results set.
+
+CREATE VIEW combined_analysis_table AS
+-- This view assembles data from different tables into one to simplify analysis
+SELECT
+water_source.type_of_water_source AS source_type,
+location.town_name,
+location.province_name,
+location.location_type,
+water_source.number_of_people_served AS people_served,
+visits.time_in_queue,
+well_pollution.results
+FROM
+visits
+LEFT JOIN
+well_pollution
+ON well_pollution.source_id = visits.source_id
+INNER JOIN
+location
+ON location.location_id = visits.location_id
+INNER JOIN
+water_source
+ON water_source.source_id = visits.source_id
+WHERE
+visits.visit_count = 1;
+
+--  We now want to break down our data into provinces or towns and source types.
+
+WITH province_totals AS (-- This CTE calculates the population of each province
+SELECT
+province_name,
+SUM(people_served) AS total_ppl_serv
+FROM
+combined_analysis_table
+GROUP BY
+province_name
+)
+SELECT
+ct.province_name,
+-- These case statements create columns for each type of source.
+-- The results are aggregated and percentages are calculated
+ROUND((SUM(CASE WHEN source_type = 'river'
+THEN people_served ELSE 0 END) * 100.0 / pt.total_ppl_serv), 0) AS river,
+ROUND((SUM(CASE WHEN source_type = 'shared_tap'
+THEN people_served ELSE 0 END) * 100.0 / pt.total_ppl_serv), 0) AS shared_tap,
+ROUND((SUM(CASE WHEN source_type = 'tap_in_home'
+THEN people_served ELSE 0 END) * 100.0 / pt.total_ppl_serv), 0) AS tap_in_home,
+ROUND((SUM(CASE WHEN source_type = 'tap_in_home_broken'
+THEN people_served ELSE 0 END) * 100.0 / pt.total_ppl_serv), 0) AS tap_in_home_broken,
+ROUND((SUM(CASE WHEN source_type = 'well'
+THEN people_served ELSE 0 END) * 100.0 / pt.total_ppl_serv), 0) AS well
+FROM
+combined_analysis_table ct
+JOIN
+province_totals pt ON ct.province_name = pt.province_name
+GROUP BY
+ct.province_name
+ORDER BY
+ct.province_name;
+
+-- Let's aggregate the data per town now
+-- Group by province first, then by town
+
+WITH town_totals AS (-- This CTE calculates the population of each town
+-- Since there are two Harare towns, we have to group by province_name and town_name
+SELECT province_name, town_name, SUM(people_served) AS total_ppl_serv
+FROM combined_analysis_table
+GROUP BY province_name,town_name
+)
+SELECT
+ct.province_name,
+ct.town_name,
+ROUND((SUM(CASE WHEN source_type = 'river'
+THEN people_served ELSE 0 END) * 100.0 / tt.total_ppl_serv), 0) AS river,
+ROUND((SUM(CASE WHEN source_type = 'shared_tap'
+THEN people_served ELSE 0 END) * 100.0 / tt.total_ppl_serv), 0) AS shared_tap,
+ROUND((SUM(CASE WHEN source_type = 'tap_in_home'
+THEN people_served ELSE 0 END) * 100.0 / tt.total_ppl_serv), 0) AS tap_in_home,
+ROUND((SUM(CASE WHEN source_type = 'tap_in_home_broken'
+THEN people_served ELSE 0 END) * 100.0 / tt.total_ppl_serv), 0) AS tap_in_home_broken,
+ROUND((SUM(CASE WHEN source_type = 'well'
+THEN people_served ELSE 0 END) * 100.0 / tt.total_ppl_serv), 0) AS well
+FROM
+combined_analysis_table ct
+JOIN -- Since the town names are not unique, we have to join on a composite key
+town_totals tt ON ct.province_name = tt.province_name AND ct.town_name = tt.town_name
+GROUP BY -- We group by province first, then by town.
+ct.province_name,
+ct.town_name
+ORDER BY
+ct.town_name;
